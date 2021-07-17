@@ -32,24 +32,53 @@
 #header{
      padding: 50px;
      background: silver;
+     border: 1px red solid;
+     height: 213px;
+
 }
 #main{
      padding: 30px;
      background: skyblue;
      width: 700px;
      float: right;
+     border: 1px red solid;
+     height: 700px;
 }    
 #sidebar{
      background: lightblue;
      width: 300px ;
+     height: 700px;
      float: right;
      padding: 30px;
+     border: 1px red solid;
+
 }
 #footer{
      padding: 20px;
      background: aliceblue;
+     border: 1px red solid;
+
 }
 img{
      float: right;
      margin: 0 0 15px 15px;
+}
+
+h2{
+     background: #3366ff;
+     width: 500px;
+     padding: 10px;
+}
+
+h1{
+     font-size: 40px;
+     display: inline;
+     margin-left: 50px;
+}
+h3{
+     font-size: 15px;
+}
+
+.alignleft{
+     float: left;
 }
