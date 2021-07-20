@@ -49,8 +49,7 @@ body{
 }
 
 #sideheader{
-     border: 1px black solid;
-     background: white;
+     background: beige;
      width: 400px ;
      height: 180px;
      float: right;
